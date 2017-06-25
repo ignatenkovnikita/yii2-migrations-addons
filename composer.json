@@ -1,0 +1,25 @@
+{
+    "name": "ignatenkovnikita/yii2-migrations-addons",
+    "description": "Yii2 Migrations Addons, Traits",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","migrations","traits"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/ignatenkovnikita/yii2-migrations-addons/issues",
+        "source": "https://github.com/ignatenkovnikita/yii2-migrations-addons"
+    },
+    "authors": [
+        {
+            "name": "Ignatenkov Nikita",
+            "email": "ignatenkov.n@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ignatenkovnikita\\migrationsaddons\\": ""
+        }
+    }
+}
