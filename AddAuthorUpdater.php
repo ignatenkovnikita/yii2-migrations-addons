@@ -21,7 +21,7 @@ trait AddAuthorUpdater
      * @param $tableName
      * @param string $columnName
      */
-    public function addAuthor($tableName, $columnName = 'author_id')
+    public function addAuthor($tableName, $columnName = 'created_by')
     {
         $this->addColumn($tableName, $columnName, $this->integer());
     }
@@ -30,7 +30,7 @@ trait AddAuthorUpdater
      * @param $tableName
      * @param string $columnName
      */
-    public function addUpdater($tableName, $columnName = 'updater_id')
+    public function addUpdater($tableName, $columnName = 'updated_by')
     {
         $this->addColumn($tableName, $columnName, $this->integer());
     }
