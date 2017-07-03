@@ -2,6 +2,11 @@
 
 This traits add column on migrations files
 
+## Install
+```bash
+composer require ignatenkovnikita/yii2-migrations-addons:dev-master
+```
+
 #### List of traits
 - AddAuthorUpdater - add columns `author_id` and `updater_id` for behavior `BlameableBehavior`
 - AddCreatedUpdated - add columns `created_id` and `updated_at` for behavior TimestampBehavior
