@@ -1,5 +1,10 @@
 ### Yii2 migrations addons
 
+
+[![Latest Stable Version](https://poser.pugx.org/ignatenkovnikita/yii2-migrations-addons/v/stable)](https://packagist.org/packages/ignatenkovnikita/yii2-migrations-addons) [![Total Downloads](https://poser.pugx.org/ignatenkovnikita/yii2-migrations-addons/downloads)](https://packagist.org/packages/ignatenkovnikita/yii2-migrations-addons) [![Latest Unstable Version](https://poser.pugx.org/ignatenkovnikita/yii2-migrations-addons/v/unstable)](https://packagist.org/packages/ignatenkovnikita/yii2-migrations-addons) [![License](https://poser.pugx.org/ignatenkovnikita/yii2-migrations-addons/license)](https://packagist.org/packages/ignatenkovnikita/yii2-migrations-addons)
+
+
+
 This traits add column on migrations files
 
 ## Install
